@@ -1,6 +1,6 @@
 {
-    "name": "cloudmersive/cloudmersive_video_api_client",
-    "version": "1.0.2",
+    "name": "cloudmersive/cloudmersive_dataintegration_api_client",
+    "version": "1.0.1",
     "description": "",
     "keywords": [
         "swagger",

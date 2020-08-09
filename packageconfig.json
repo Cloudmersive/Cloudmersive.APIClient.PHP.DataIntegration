@@ -1,9 +1,9 @@
 ﻿{
-  "artifactVersion": "1.0.2",
+  "artifactVersion": "1.0.1",
   "gitUserId": "Cloudmersive",
-  "gitRepoId": "Cloudmersive.APIClient.PHP.VideoAndMediaServices",
+  "gitRepoId": "Cloudmersive.APIClient.PHP.DataIntegration",
   "composerVendorName": "cloudmersive",
-  "composerProjectName": "cloudmersive_video_api_client",
-  "packagePath": "cloudmersive_video_api_client"
+  "composerProjectName": "cloudmersive_dataintegration_api_client",
+  "packagePath": "cloudmersive_dataintegration_api_client"
   
 }  
