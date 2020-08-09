@@ -10,7 +10,7 @@
  */
 
 /**
- * Data Integration API
+ * dataintegrationapi
  *
  * Easily and directly query database backup files, convert into other file formats.
  *

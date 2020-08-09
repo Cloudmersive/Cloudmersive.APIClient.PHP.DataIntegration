@@ -4,7 +4,7 @@ Easily and directly query database backup files, convert into other file formats
 [Cloudmersive Data Integration API](https://cloudmersive.com/data-integration-api) - Easily and directly query database backup files, convert into other file formats.
 
 - API version: v1
-- Package version: 1.0.1
+- Package version: 1.0.2
 
 
 ## Requirements
